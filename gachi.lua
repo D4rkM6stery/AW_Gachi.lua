@@ -1,6 +1,6 @@
 --------Auto Update--------
 local SCRIPT_FILE_NAME = GetScriptName();
-local SCRIPT_FILE_ADDR = "https://raw.githubusercontent.com/D4rkM6stery/AW_Gachi.lua/main/Hentai%20Killsay%20Deathsay.lua";
+local SCRIPT_FILE_ADDR = "https://raw.githubusercontent.com/D4rkM6stery/AW_Gachi.lua/main/gachi.lua";
 local VERSION_FILE_ADDR = "https://raw.githubusercontent.com/D4rkM6stery/AW_Gachi.lua/main/Version.txt";
 local VERSION_NUMBER = "0.2";
 local version_check_done = false;
