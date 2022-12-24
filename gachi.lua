@@ -79,3 +79,5 @@ callbacks.Register( "Draw", "handleUpdates", function()
 		draw.Text(7 + spacing - 650 + fadein, 9, "Successfully loaded latest version: v" .. VERSION_NUMBER);
 	end
 end)
+
+print("Loaded")
